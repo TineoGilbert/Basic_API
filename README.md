@@ -2,4 +2,4 @@
 
 - Basic Model API using the Web Framework FastAPI
 
-![](FastAPI.png)
+![](FAST_API/FastAPI.png)
